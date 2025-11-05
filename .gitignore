@@ -1,0 +1,21 @@
+# Virtual env
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data and notebooks
+data/
+*.csv
+.ipynb_checkpoints/
+
+# IDE/editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
